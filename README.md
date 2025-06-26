@@ -15,10 +15,9 @@ Para inicializar o banco, use o script SQL incluso no arquivo `init_db.sql` dent
 
 1. Clone o repositório:
 
-git clone https://github.com/WylliamMarinho/sistema-estoque.git
-cd controle-estoque
+Faça um clone ou baixe o .zip de https://github.com/WylliamMarinho/sistema-estoque.git
 
-2. Abra o terminal do pycharm e ative:
+2. Abra o projeto baixado no pycharm, vá no terminal e ative:
 
 python -m venv venv
 .\venv\Scripts\activate
@@ -27,7 +26,7 @@ python -m venv venv
 
 pip install -r requirements.txt
 
-4. Configure um .env com base no .env.example
+4. Crie um .env com base no .env.example
 
 5. Rode a API no terminal:
 
