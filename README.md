@@ -20,6 +20,7 @@ Faça um clone ou baixe o .zip de https://github.com/WylliamMarinho/sistema-esto
 2. Abra o projeto baixado no pycharm, vá no terminal e ative:
 
 python -m venv venv
+
 .\venv\Scripts\activate
 
 3. Instale os pacotes:
